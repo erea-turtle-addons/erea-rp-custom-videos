@@ -2,7 +2,7 @@
 ## Title: E'rea RP Custom Videos
 ## Notes: Custom video animations. Drop .blp sprite-sheet files in blp-videos\ and run generate-registry.ps1.
 ## RequiredDeps: erea-rp-player
-## Version: 1.1.6
+## Version: 1.1.7
 
 blp-videos/animation-registry.lua
 rp-custom-videos.lua
