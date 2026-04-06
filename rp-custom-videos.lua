@@ -6,4 +6,5 @@
 -- EreaRpLibraries:CinematicAnimations() is provided by erea-rp-common (RequiredDeps).
 -- ============================================================================
 
-EreaRpLibraries:CinematicAnimations():RegisterExtension(EreaRpCustomVideoRegistry, "erea-rp-custom-videos")
+local cinematicAnims = EreaRpLibraries:CinematicAnimations()
+cinematicAnims.RegisterExtension(EreaRpCustomVideoRegistry, "erea-rp-custom-videos")
